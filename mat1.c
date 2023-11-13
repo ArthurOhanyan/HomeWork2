@@ -5,7 +5,7 @@
 
 int main()
 {
-
+	// added some changes in this file from git repository // 
 	int size = 5;
 	int sum = 0;
 	int sum1 = 0;
